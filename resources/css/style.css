@@ -1,0 +1,49 @@
+html {
+  text-align: center;
+}
+
+.Header, .DNY {
+  background-image: url('../images/the-flatiron-building.png');
+}
+h1, h2, h3, h4, h5, p {
+    font-family: Helvetica;
+}
+
+h1, h4 {
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.DNY {
+  color: white;
+  font-weight: bold;
+}
+
+h5 {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
